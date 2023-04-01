@@ -1,0 +1,8 @@
+C:\Users\MSII\source\repos\EF_Example\obj\Debug\netcoreapp3.1\EF_Example.csproj.AssemblyReference.cache
+C:\Users\MSII\source\repos\EF_Example\obj\Debug\netcoreapp3.1\EF_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSII\source\repos\EF_Example\obj\Debug\netcoreapp3.1\EF_Example.AssemblyInfoInputs.cache
+C:\Users\MSII\source\repos\EF_Example\obj\Debug\netcoreapp3.1\EF_Example.AssemblyInfo.cs
+C:\Users\MSII\source\repos\EF_Example\obj\Debug\netcoreapp3.1\EF_Example.csproj.CoreCompileInputs.cache
+C:\Users\MSII\source\repos\EF_Example\obj\Debug\netcoreapp3.1\EF_Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSII\source\repos\EF_Example\obj\Debug\netcoreapp3.1\EF_Example.RazorAssemblyInfo.cache
+C:\Users\MSII\source\repos\EF_Example\obj\Debug\netcoreapp3.1\EF_Example.RazorAssemblyInfo.cs
